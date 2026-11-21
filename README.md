@@ -1,5 +1,8 @@
 # Product Store
 
+**Live demo:** https://product-store-omega-three.vercel.app
+**Source:** https://github.com/abhijithukr/product-store
+
 A React + Vite product store. It loads 100 products and their categories from the
 [DummyJSON API](https://dummyjson.com/docs/products), with search, category filter,
 price sort and a cart that survives a refresh.
